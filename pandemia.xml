@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="pandemia">
+    <simulation_params tfinal="20" dt="1"/>
+    <states> 
+        <state name="S"/>
+        <state name="I"/> 
+        <state name="R"/>
+    </states> 
+    <events>
+        <event name="infection" timedelay="1" probability="0.3" repeat="true">
+            <conditions>
+                <condition mystate="S" neighbour_state="I" />
+            </conditions>
+            <actions> 
+                <action type="update" newstate="I" />
+            </actions> 
+        </event> 
+        <event name="recovery" timedelay="5" probability="0.7" repeat="true">
+            <conditions>   
+                <condition mystate="I" neighbour_state="" />
+            </conditions>
+            <actions> 
+                <action type="update" newstate="R" />
+            </actions>
+        </event> 
+    </events> 
+</model> 

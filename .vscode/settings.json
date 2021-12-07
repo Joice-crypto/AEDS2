@@ -3,6 +3,7 @@
     "files.associations": {
         "stdlib.h": "c",
         "string.h": "c",
-        "dados.h": "c"
+        "dados.h": "c",
+        "grafos.h": "c"
     }
 }

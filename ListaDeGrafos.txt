@@ -1,0 +1,76 @@
+
+
+Adjacentes de 0:
+ vertice: 1, estado: S;vertice: 5, estado: S;
+
+Adjacentes de 1:
+ vertice: 0, estado: S;vertice: 2, estado: S;vertice: 6, estado: S;
+
+Adjacentes de 2:
+ vertice: 1, estado: S;vertice: 3, estado: S;vertice: 7, estado: S;
+
+Adjacentes de 3:
+ vertice: 2, estado: S;vertice: 4, estado: S;vertice: 8, estado: S;
+
+Adjacentes de 4:
+ vertice: 3, estado: S;vertice: 9, estado: S;
+
+Adjacentes de 5:
+ vertice: 0, estado: S;vertice: 6, estado: S;vertice: 10, estado: S;
+
+Adjacentes de 6:
+ vertice: 1, estado: S;vertice: 5, estado: S;vertice: 7, estado: S;vertice: 11, estado: S;
+
+Adjacentes de 7:
+ vertice: 2, estado: S;vertice: 6, estado: S;vertice: 8, estado: S;vertice: 12, estado: S;
+
+Adjacentes de 8:
+ vertice: 3, estado: S;vertice: 7, estado: S;vertice: 9, estado: S;vertice: 13, estado: S;
+
+Adjacentes de 9:
+ vertice: 4, estado: S;vertice: 8, estado: S;vertice: 14, estado: S;
+
+Adjacentes de 10:
+ vertice: 5, estado: S;vertice: 11, estado: S;vertice: 15, estado: S;
+
+Adjacentes de 11:
+ vertice: 6, estado: S;vertice: 10, estado: S;vertice: 12, estado: S;vertice: 16, estado: S;
+
+Adjacentes de 12:
+ vertice: 7, estado: S;vertice: 11, estado: S;vertice: 13, estado: S;vertice: 17, estado: S;
+
+Adjacentes de 13:
+ vertice: 8, estado: S;vertice: 12, estado: S;vertice: 14, estado: S;vertice: 18, estado: S;
+
+Adjacentes de 14:
+ vertice: 9, estado: S;vertice: 13, estado: S;vertice: 19, estado: S;
+
+Adjacentes de 15:
+ vertice: 10, estado: S;vertice: 16, estado: S;vertice: 20, estado: S;
+
+Adjacentes de 16:
+ vertice: 11, estado: S;vertice: 15, estado: S;vertice: 17, estado: S;vertice: 21, estado: S;
+
+Adjacentes de 17:
+ vertice: 12, estado: S;vertice: 16, estado: S;vertice: 18, estado: S;vertice: 22, estado: S;
+
+Adjacentes de 18:
+ vertice: 13, estado: S;vertice: 17, estado: S;vertice: 19, estado: S;vertice: 23, estado: S;
+
+Adjacentes de 19:
+ vertice: 14, estado: S;vertice: 18, estado: S;vertice: 24, estado: S;
+
+Adjacentes de 20:
+ vertice: 15, estado: S;vertice: 21, estado: S;
+
+Adjacentes de 21:
+ vertice: 16, estado: S;vertice: 20, estado: S;vertice: 22, estado: S;
+
+Adjacentes de 22:
+ vertice: 17, estado: S;vertice: 21, estado: S;vertice: 23, estado: S;
+
+Adjacentes de 23:
+ vertice: 18, estado: S;vertice: 22, estado: S;vertice: 24, estado: S;
+
+Adjacentes de 24:
+ vertice: 19, estado: S;vertice: 23, estado: S;
